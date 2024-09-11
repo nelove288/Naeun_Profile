@@ -1,8 +1,8 @@
-<div><h1> Profile</h1></div>
+<div><h1> Naeun's Profile</h1></div>
+
+<div><h3>🖥 Baekjoon</h3></div>
 
 [![solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nelove288)](https://solved.ac/nelove288)
 
-<br/>
-
-<div><h1>Tistory</h1></div>
-https://kne-coding.tistory.com/
+<div><h3>📚 Tistory</h3></div>
+<div>https://kne-coding.tistory.com/</div>
